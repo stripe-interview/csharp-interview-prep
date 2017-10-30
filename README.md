@@ -28,12 +28,16 @@ dotnet test tests/
 
 ## Visual Studio Code (Windows, Linux, OSX)
 Open the directory of the repo
+
 Open the command palette
+
 Select `Tasks: Run Test Task`
 
 ## Visual Studio 2017 (Windows)
 Open `csharp-interview-prep.sln`
+
 Open Test Explorer
+
 Click `Run all`
 
 Ensure you can run and debug the included tests using your preferred environment.
