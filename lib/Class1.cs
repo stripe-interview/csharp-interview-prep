@@ -5,7 +5,13 @@ namespace lib
 {
     public class Class1
     {
-        public string UseJsonNetForSomeReason<T>(T input) {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello world!");
+        }
+
+        public string UseJsonNetForSomeReason<T>(T input)
+        {
             return JsonConvert.SerializeObject(input);
         }
     }
