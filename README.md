@@ -33,7 +33,7 @@ Open the command palette
 
 Select `Tasks: Run Test Task`
 
-## Visual Studio 2017 (Windows)
+## Visual Studio 2019 (Windows)
 Open `csharp-interview-prep.sln`
 
 Open Test Explorer
