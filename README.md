@@ -26,6 +26,8 @@ dotnet build
 dotnet test tests/
 ```
 
+If ```dotnet restore``` fails, is likely you are missing nuget.org feed. You can addit by following this instructions: [Adding Nuget.org](https://docs.microsoft.com/en-us/nuget/resources/nuget-faq#i-don-t-see-nuget-org-in-my-list-of-repositories--how-do-i-get-it-back-)
+
 ## Visual Studio Code (Windows, Linux, OSX)
 Open the directory of the repo
 
