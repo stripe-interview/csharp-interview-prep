@@ -14,7 +14,7 @@ setup.
 
 # Getting Ready
 
-If you have not already, please install [.Net Core 2.0](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+If you have not already, please install [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 This solution supports the following  development environments.
 
@@ -47,7 +47,7 @@ This project uses xUnit for implementing and executing tests.
 
 # About This Project:
 
-## I prefer .Net Framework 4/nUnit/Bespoke Powershell Scripts, do I need to use this?
+## I prefer .Net Framework 6/nUnit/Bespoke Powershell Scripts, do I need to use this?
 
 If you prefer different configuration files, that's awesome.
 Some interview questions may ask to implement something from nothing,
@@ -63,5 +63,5 @@ We aren't really specifically interested in how great your are at writing
 xUnit tests, but want you to quickly get them up and running.
 
 ## Useful References:
-- [.Net Core](https://www.microsoft.com/net/core)
+- [.NET](https://dotnet.microsoft.com/)
 - [xUnit](https://xunit.github.io/)
