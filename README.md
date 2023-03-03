@@ -14,9 +14,9 @@ setup.
 
 # Getting Ready
 
-If you have not already, please install [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+If you have not already, please install [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-This solution supports the following  development environments.
+This solution supports the following development environments.
 
 ## Console (Windows, Linux, OSX)
 in the directory of the repo run
