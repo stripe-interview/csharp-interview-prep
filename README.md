@@ -14,7 +14,7 @@ setup.
 
 # Getting Ready
 
-If you have not already, please install [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+If you have not already, please install [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
 This solution supports the following  development environments.
 
