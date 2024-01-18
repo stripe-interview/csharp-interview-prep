@@ -16,7 +16,7 @@ setup.
 
 If you have not already, please install [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
-This solution supports the following  development environments.
+This solution supports the following development environments.
 
 ## Console (Windows, Linux, OSX)
 in the directory of the repo run
@@ -35,7 +35,7 @@ Open the command palette
 
 Select `Tasks: Run Test Task`
 
-## Visual Studio 2019 (Windows)
+## Visual Studio 2022 (Windows)
 Open `csharp-interview-prep.sln`
 
 Open Test Explorer
@@ -47,7 +47,7 @@ This project uses xUnit for implementing and executing tests.
 
 # About This Project:
 
-## I prefer .Net Framework 6/nUnit/Bespoke Powershell Scripts, do I need to use this?
+## I prefer nUnit/Bespoke Powershell Scripts, do I need to use this?
 
 If you prefer different configuration files, that's awesome.
 Some interview questions may ask to implement something from nothing,
