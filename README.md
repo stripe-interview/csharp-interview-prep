@@ -14,7 +14,7 @@ setup.
 
 # Getting Ready
 
-If you have not already, please install [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+If you have not already, please install [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 This solution supports the following development environments.
 
@@ -50,7 +50,7 @@ This project uses xUnit for implementing and executing tests.
 ## I prefer nUnit/Bespoke Powershell Scripts, do I need to use this?
 
 If you prefer different configuration files, that's awesome.
-Some interview questions may ask to implement something from nothing,
+Some interview questions may ask you to implement something from nothing,
 and some may want to watch you interact with a pre-existing codebase.
 For the former, it doesn't matter what you use, as long as you're able
 to get things setup quickly.
